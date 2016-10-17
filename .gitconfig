@@ -1,0 +1,6 @@
+[user]
+        email = akosma@me.com
+        name = Adrian Kosmaczewski
+[alias]
+        serve = daemon --verbose --export-all --base-path=.git --reuseaddr --strict-paths .git/
+
